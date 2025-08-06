@@ -1,10 +1,10 @@
 package helloWorld;
 
-public class OlaMundo {
+public class HolaQueTal {
 
 	public static void main(String[] args) {
 		
-		System.out.println("Ola mundo!");
+		System.out.println("Hola que Tal!");
 
 	}
 
